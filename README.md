@@ -1,0 +1,1 @@
+# Codes-to-determine-and-plot-the-fixed-points-and-eigen-values-of-a-coupled-Lorenz-oscillators
